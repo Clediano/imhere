@@ -1,32 +1,16 @@
-import { Text, View, StyleSheet } from "react-native";
+import { StatusBar } from 'react-native';
+
+import { Home } from "./src/screens/Home";
 
 export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text style={styles.title}>
-        Construindo
-      </Text>
-      <Text style={styles.subtitle}>
-        Sexta, 4 de Novembro de 2022
-      </Text>
-    </View>
-  );
+    return (
+        <>
+            <StatusBar
+                barStyle="light-content"
+                backgroundColor="transparent"
+                translucent
+            />
+            <Home />
+        </>
+    );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#131016',
-    padding: 24
-  },
-  title: {
-    color: '#fdfcfe',
-    fontSize: 24,
-    fontWeight: 'bold',
-    marginTop: 48
-  },
-  subtitle: {
-    color: '#6b6b6b',
-    fontSize: 16
-  }
-});
