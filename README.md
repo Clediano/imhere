@@ -2,13 +2,13 @@
 Projeto react-native desenvolvido no ignite com a finalidade de cadastrar participantes numa lista.
 
 Aplicativo sem dados
-[![Image Default](assets\img4.jpeg)]()
+[![Aplicativo sem dados](https://github.com/Clediano/imhere/blob/main/assets/img4.jpeg)]()
 
 Aplicativo com um participante
-[![Image Default](assets\img3.jpeg)]()
+[![Aplicativo com um participante](https://github.com/Clediano/imhere/blob/main/assets/img3.jpeg)]()
 
 Removendo um participante
-[![Image Default](assets\img2.jpeg)]()
+[![Removendo um participante](https://github.com/Clediano/imhere/blob/main/assets/img2.jpeg)]()
 
 Validação ao adicionar um participante
-[![Image Default](assets\img1.jpeg)]()
+[![Validação ao adicionar um participante](https://github.com/Clediano/imhere/blob/main/assets/img1.jpeg)]()
